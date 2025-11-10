@@ -1,2 +1,2 @@
 # Okane
-My  first rice for Hyprland
+My  first rice for Hyprland 10 Nov
