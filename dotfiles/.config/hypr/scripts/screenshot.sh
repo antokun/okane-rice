@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Pastikan script dapat dieksekusi
 # chmod +x ~/.config/hypr/scripts/screenshot.sh
 
 MODE=$1
